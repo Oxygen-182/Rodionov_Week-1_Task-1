@@ -1,0 +1,27 @@
+C:\Temp\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.exe.config
+C:\Temp\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.exe
+C:\Temp\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.pdb
+C:\Temp\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.exe
+C:\Temp\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.pdb
+E:\Задания\Задание 1\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.exe.config
+E:\Задания\Задание 1\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.exe
+E:\Задания\Задание 1\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.pdb
+E:\Задания\Задание 1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.csproj.AssemblyReference.cache
+E:\Задания\Задание 1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.csproj.SuggestedBindingRedirects.cache
+E:\Задания\Задание 1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.csproj.CoreCompileInputs.cache
+E:\Задания\Задание 1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.exe
+E:\Задания\Задание 1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.pdb
+C:\Users\ruson\Desktop\Юра\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.exe.config
+C:\Users\ruson\Desktop\Юра\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.exe
+C:\Users\ruson\Desktop\Юра\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.pdb
+C:\Users\ruson\Desktop\Юра\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.csproj.AssemblyReference.cache
+C:\Users\ruson\Desktop\Юра\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruson\Desktop\Юра\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.csproj.CoreCompileInputs.cache
+C:\Users\ruson\Desktop\Юра\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.exe
+C:\Users\ruson\Desktop\Юра\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.pdb
+E:\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.exe.config
+E:\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.exe
+E:\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.pdb
+E:\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.exe
+E:\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\bin\Debug\ConsoleApp_1.pdb
+E:\УПК\Нед_1\Задание_1\ConsoleApp_1\ConsoleApp_1\obj\Debug\ConsoleApp_1.csprojResolveAssemblyReference.cache
